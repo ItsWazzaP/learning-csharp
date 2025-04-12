@@ -8,7 +8,34 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="GettingUserInput\GettingUserInput.csA" />
+    <Compile Remove="ConsolePrinting\**" />
+    <Compile Remove="DataTypes\**" />
+    <Compile Remove="GettingUserInput\**" />
+    <Compile Remove="Variables\**" />
+    <Compile Remove="WorkingWithNumbers\**" />
+    <Compile Remove="WorkingWithStrings\**" />
+    <EmbeddedResource Remove="ConsolePrinting\**" />
+    <EmbeddedResource Remove="DataTypes\**" />
+    <EmbeddedResource Remove="GettingUserInput\**" />
+    <EmbeddedResource Remove="Variables\**" />
+    <EmbeddedResource Remove="WorkingWithNumbers\**" />
+    <EmbeddedResource Remove="WorkingWithStrings\**" />
+    <None Remove="ConsolePrinting\**" />
+    <None Remove="DataTypes\**" />
+    <None Remove="GettingUserInput\**" />
+    <None Remove="Variables\**" />
+    <None Remove="WorkingWithNumbers\**" />
+    <None Remove="WorkingWithStrings\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="CalculatorProgram.cs" />
+    <Compile Remove="ConsolePrinting.cs" />
+    <Compile Remove="DataTypes.cs" />
+    <Compile Remove="GettingUserInput.cs" />
+    <Compile Remove="Variables.cs" />
+    <Compile Remove="WorkingWithNumbers.cs" />
+    <Compile Remove="WorkingWithStrings.cs" />
   </ItemGroup>
 
 </Project>

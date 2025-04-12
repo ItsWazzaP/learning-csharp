@@ -9,13 +9,13 @@ namespace Learning.CalculatorProgram
 {
     class CalculatorProgram
     {
-        private static void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.Write("Enter a number: ");
-            int num1 = Convert.ToInt32(Console.ReadLine());
+            double num1 = Convert.ToDouble(Console.ReadLine());
             Console.Write("Enter another number: ");
-            int num2 = Convert.ToInt32(Console.ReadLine());
-
+            double num2 = Convert.ToDouble(Console.ReadLine());
+            //Really simple, only addition
             Console.WriteLine(num1 + num2);
 
             Console.ReadLine();

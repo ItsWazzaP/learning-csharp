@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\WazzaP\\Documents\\GitHub\\learning-csharp\\Learning\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9232AE5F-2813-4E06-9A76-2DD3C273AF9A}|Learning.csproj|c:\\users\\wazzap\\documents\\github\\learning-csharp\\learning\\calculatorprogram\\calculatorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9232AE5F-2813-4E06-9A76-2DD3C273AF9A}|Learning.csproj|solutionrelative:calculatorprogram\\calculatorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9232AE5F-2813-4E06-9A76-2DD3C273AF9A}|Learning.csproj|c:\\users\\wazzap\\documents\\github\\learning-csharp\\learning\\madlibgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9232AE5F-2813-4E06-9A76-2DD3C273AF9A}|Learning.csproj|solutionrelative:madlibgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CalculatorProgram.cs",
-              "DocumentMoniker": "C:\\Users\\WazzaP\\Documents\\GitHub\\learning-csharp\\Learning\\CalculatorProgram\\CalculatorProgram.cs",
-              "RelativeDocumentMoniker": "CalculatorProgram\\CalculatorProgram.cs",
-              "ToolTip": "C:\\Users\\WazzaP\\Documents\\GitHub\\learning-csharp\\Learning\\CalculatorProgram\\CalculatorProgram.cs",
-              "RelativeToolTip": "CalculatorProgram\\CalculatorProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAABAAAAAAAAAA==",
+              "Title": "MadLibGame.cs",
+              "DocumentMoniker": "C:\\Users\\WazzaP\\Documents\\GitHub\\learning-csharp\\Learning\\MadLibGame.cs",
+              "RelativeDocumentMoniker": "MadLibGame.cs",
+              "ToolTip": "C:\\Users\\WazzaP\\Documents\\GitHub\\learning-csharp\\Learning\\MadLibGame.cs",
+              "RelativeToolTip": "MadLibGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T17:56:01.881Z",
+              "WhenOpened": "2025-02-22T20:44:09.855Z",
               "EditorCaption": ""
             }
           ]
