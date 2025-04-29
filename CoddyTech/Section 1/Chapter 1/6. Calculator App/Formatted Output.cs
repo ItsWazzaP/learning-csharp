@@ -12,9 +12,10 @@ public class Program {
         double product = num1 * num2;
         double quotient = num1 / num2;
 
-        Console.WriteLine($"Sum: {sum}");
-        Console.WriteLine($"Difference: {difference}");
-        Console.WriteLine($"Product: {product}");
-        Console.WriteLine($"Quotient: {quotient}");
+        //Adding :Fx to the print statement determines how many decimals get printed. Handy!
+        Console.WriteLine($"Sum: {sum:F2}");
+        Console.WriteLine($"Difference: {difference:F2}");
+        Console.WriteLine($"Product: {product:F2}");
+        Console.WriteLine($"Quotient: {quotient:F2}");
     }
 }
